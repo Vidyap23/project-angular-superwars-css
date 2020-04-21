@@ -1,0 +1,13 @@
+.warzone{
+    display:grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-column-gap:0.4em;
+}
+.team{
+    display:flex;
+    flex-wrap: wrap;
+}
+#heroes{
+justify-content: flex-end;
+
+}
